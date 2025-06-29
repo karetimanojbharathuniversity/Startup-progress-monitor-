@@ -1,0 +1,102 @@
+Startup Name,Revenue,Employee Productivity,Market Size,Market Growth Rate,Customer Satisfaction,Cost,Profit Margin,Business Model,Time (Year),Competitors
+Paytm,1. 2000 ,2.01,"75,00,00,00,000",7.14,93,"7,500",22,Digital payments,2020,"GPay, Phone Pe"
+Swiggy,2. 1200 ,2.23,"70,00,00,00,000",4.48,92,"7,000",20,Food delivery,2021,"Zomato , Food panda"
+Zomato,3. 800 ,2.12,"65,00,00,00,000",8.33,92,"6,500",18,Food delivery,2020,"Swiggy , Food Panda "
+BYJU'S ,4. 700 ,2.07,"60,00,00,00,000",9.09,91,"6,000",21,Online teaching tool.,2020,"Unacademy , Vedantu"
+Razorpay,5. 900 ,2.22,"55,00,00,00,000",10,90,"5,500",17,Payment gateway.,2021,"Pay U , InstaMojo"
+PhonePe ,6. 1500 ,2.03,"50,00,00,00,000",8.7,90,"5,000",19,Digital payments,2016,"RazorPay, PayU"
+UrbanClap,7. 600 ,2.3,"45,00,00,00,000",9.76,88,"4,500",25,Service marketplace.,2014,"Urban Company, House Joy"
+CredAvenue,8. 400 ,2.11,"40,00,00,00,000",11.11,88,"4,000",23,Debt financing.,2017,"Innoven Capital, Alteria Capital"
+Meesho ,9. 1800 ,2.2,"38,00,00,00,000",11.76,87,"3,800",15,Social commerce.,2015,"Meesho, Deal share"
+Groww ,10. 1400 ,2.18,"35,00,00,00,000",12.9,87,"3,500",12,Investment platform.,2016,"Groww , Zerodha"
+CRED ,11. 1000 ,2.15,"32,00,00,00,000",14.29,85,"3,200",10,Credit rewards.,2018,"CRED,PhonePe"
+Koo,12. 200 ,2.33,"30,00,00,00,000",15.38,85,"3,000",30, Microblogging.,2020,"Koo, Sharechat"
+Practo,13. 300 ,2.25,"28,00,00,00,000",16.67,83,"2,800",28, Healthcare platform.,2008,"Medibudy, Onsecurity"
+TechSee,14. 250 ,2.02,"26,00,00,00,000",18.18,83,"2,600",26, Visual assistance.,2015,"Aqualite, Eyeway"
+Zepto,15. 220 ,2.06,"25,00,00,00,000",19.05,82,"2,500",24,Quick grocery delivery.,2021,"Instamart, Bigbasket"
+Urban Company ,16. 275 ,2.19,"24,00,00,00,000",20,80,"2,400",22, Home services.,2014,"Housejoy, Zimmber"
+Tracxn,17. 500 ,2.05,"23,00,00,00,000",21.05,80,"2,300",15,Market research.,2013,"Seminels research , Greycells research"
+Pine Labs ,18. 650 ,2.09,"22,00,00,00,000",22.22,79,"2,200",13, Merchant payment solutions.,1998,Paytm. Razorpay
+Rivigo,19. 550 ,2.21,"21,00,00,00,000",23.53,78,"2,100",17, Logistics services.,2014,"Bluedart Express, Ekart logistics"
+1mg ,20. 300 ,2.32,"20,00,00,00,000",25,78,"2,000",14, Online pharmacy.,2015,"Pharmeasy, Netmeds"
+Oyo Rooms,21. 1700 ,2.1,"19,00,00,00,000",26.67,77,"1,900",16, Hotel aggregator.,2013,"Makemytrip, Goibibo"
+Shiprocket,22. 1250 ,2.14,"18,00,00,00,000",28.57,77,"1,800",18, E-commerce logistics.,2012,"Delhivery, Ecom Express"
+Cashfree ,23. 1300 ,2.26,"17,00,00,00,000",30.77,76,"1,700",20, Payment processing.,2015,"RazorPay, PayU"
+Fynd,24. 600 ,2.08,"16,00,00,00,000",33.33,75,"1,600",15, Online fashion retail.,2012,"Myntra ,Ajio"
+Credible,25. 850 ,2.17,"15,00,00,00,000",36.36,75,"1,500",27, Loan marketplace.,2012,"Faircent, Finzy"
+D2C,26. 900 ,2.13,"14,00,00,00,000",40,74,"1,400",29,Brand aggregator.,2012,"Mensa brands, Global bees"
+Zolve,27. 170 ,2.34,"13,00,00,00,000",44.44,73,"1,300",19, Banking for immigrants.,2020,"Wise, Mymoney Myntra"
+Quikr,28. 240 ,2.16,"12,00,00,00,000",50,72,"1,200",21, Classified ads.,2008,"Olx, Quickr"
+Haptik,29. 80 ,2.04,"11,00,00,00,000",57.14,71,"1,100",11, AI chatbots.,2013,"Yellow.ai, Gupshup"
+Cleartax ,30. 180 ,2.31,"10,00,00,00,000",66.67,70,"1,000",32, Tax filing.,2011,"TaxSapnner, EfilingTax"
+CarDekho,31. 1100 ,2.27,"9,00,00,00,000",63.64,69,900,14, Auto marketplace.,2008,"Droom, Car trade"
+Licious,32. 1150 ,2.02,"8,00,00,00,000",60,68,800,16, Meat delivery.,2015,"Fresh to Home, Zapp Fresh"
+HealthifyMe,33. 160 ,2.28,"7,00,00,00,000",55.56,68,700,12, Fitness coaching.,2012,"Weljii, Trijogg"
+PayU,34. 1900 ,2.01,"6,00,00,00,000",50,67,600,25, Payment processing.,2002,"RazorPay, PayU"
+Dunzo ,35. 2100 ,2.29,"5,00,00,00,000",42.86,67,500,20, On-demand delivery.,2014,"Dunzo , Borzo"
+FinBox ,36. 2200 ,2.35,"4,00,00,00,000",33.33,66,400,18, Credit scoring.,2015,"Eperian, Equifax"
+Fractal Analytics ,37. 1750 ,2.12,"3,00,00,00,000",20,66,300,15, Data analytics.,2000,"Mu sigma, Latent view Analytics"
+Lenskart ,38. 500 ,2.11,"2,00,00,00,000",25,65,250,13, Eyewear retail.,2010,"Titan eye plus, cool winks"
+MyGate,39. 350 ,2.07,"1,50,00,00,000",20,64,200,30,Security management.,2016,armour security india
+Niyo,40. 450 ,2.33,"1,00,00,00,000",16.67,63,180,22, Digital banking.,2015,Phone Pe
+LocoNav,41. 1600 ,2.1,"90,00,00,000",20,62,150,19,Fleet tracking.,2016,Aditi Tracking
+WazirX,42. 700 ,2.24,"85,00,00,000",22.22,62,130,17,Crypto exchange.,2018,Coin DCX
+Zivame,43. 1950 ,2.08,"80,00,00,000",17.65,61,120,24, Intimate wear retail.,2011,Nykaa
+Zerodha ,44. 450 ,2.16,"75,00,00,000",18.75,61,110,16,Stock trading.,2010,Groww 
+PayNearby,45. 375 ,2.04,"70,00,00,000",20,60,100,11, Retail banking.,2016,SBI
+Instamojo,46. 220 ,2.23,"65,00,00,000",21.43,60,95,20,Payment gateway.,2012,"RazorPay, PayU"
+N26,47. 280 ,2.21,"60,00,00,000",23.08,59,90,23, Digital banking.,2016,"Phone Pe, Paytm"
+CredR,48. 490 ,2.18,"55,00,00,000",25,58,85,13, Used vehicle marketplace.,2018,Car Dekho
+Bounce,49. 380 ,2.15,"50,00,00,000",27.27,58,80,26, Scooter rentals.,2014,VOGO
+Nykaa,50. 270 ,2.05,"45,00,00,000",30,57,75,27, Beauty e-commerce.,2012,Myntra 
+Jumbotail,51. 270 ,2.13,"40,00,00,000",33.33,57,70,22,Grocery wholesale.,2015,QWIPO
+Unacademy,52. 470 ,2.32,"35,00,00,000",37.5,56,65,21, Online education.,2015,BYJU'S
+ShareChat ,53. 180 ,2.09,"30,00,00,000",42.86,56,60,19,Social media.,2015,Koo
+ZestMoney ,54. 350 ,2.22,"25,00,00,000",50,55,55,18, BNPL solutions.,2015,Lazypay
+Paytm Mall,55. 670 ,2.06,"20,00,00,000",42.86,55,50,17, E-commerce platform.,2017,Flipkart
+Truecaller ,56. 90 ,2.19,"15,00,00,000",40,54,45,15, Caller ID service.,2009,Just Call
+Swiggy Genie ,57. 220 ,2.14,"14,00,00,000",45.45,54,40,16, On-demand delivery.,2020,"Instamart, Bigbasket"
+Urban Ladder ,58. 500 ,2.03,"13,00,00,000",50,53,35,14, Furniture retail.,2012,Pepperfry
+Magicpin,59. 100 ,2.25,"12,00,00,000",50,53,30,24, Shopping rewards.,2015,"payback, Timespoint"
+Cartrade ,60. 600 ,2.31,"11,00,00,000",56.25,52,25,12, Vehicle marketplace.,2009,Car Dekho
+HomeLane ,61. 310 ,2.28,"10,00,00,000",53.33,51,20,10, Interior design.,2014,Studio Lotus
+Tax2win ,62. 280 ,2.17,"9,50,00,000",50,50,18,32, Online tax advisory.,2015,Indian Taxfull
+Agrahyah ,63. 150 ,2.12,"9,00,00,000",53.85,50,16,28, Software solutions.,2017,TCS
+Paytm Payments Bank ,64. 200 ,2.1,"8,50,00,000",50,49,15,26,Digital banking.,2017,Paytm. Razorpay
+PayPal,65. 80 ,2.34,"8,00,00,000",45.45,49,14,23, Online payments.,2016,Phone Pe
+Edukare ,66. 350 ,2.3,"7,50,00,000",50,48,13,30, Online tutoring.,2018,Unacademy
+JioMart ,67. 450 ,2.11,"7,00,00,000",55.56,48,12,29, Grocery e-commerce.,2019,Bigbasket
+Healthify,68. 540 ,2.01,"6,50,00,000",50,47,11,21,Wellness platform.,2012,Vantage fit
+Unmetric ,69. 440 ,2.2,"6,00,00,000",57.14,47,10,25, Social media analytics.,2011,Kanalystics
+EasyRent ,70. 160 ,2.27,"5,50,00,000",66.67,46,9,20,Rental services.,2014,Revv
+RentoMojo,71. 370 ,2.02,"5,00,00,000",60,46,8,18, Furniture rental.,2019,Furlenco
+Apna,72. 320 ,2.33,"4,50,00,000",55.56,45,7,17, Job networking.,2014,LinkedIn
+TaskBob,73. 370 ,2.29,"4,00,00,000",62.5,45,6.5,15, Home services.,2018,"Urban Company, House Joy"
+Mr. Khatta Meetha,74. 280 ,2.23,"3,50,00,000",71.43,44,6,16,Snack delivery.,2013,"Swiggy , Food Panda "
+Zoomcar,75. 410 ,2.08,"3,00,00,000",83.33,43,5.5,14,Self-drive rentals.,2007,Revv
+Taboola,76. 360 ,2.06,"2,50,00,000",80,42,5,27,Content recommendations.,2015,inshorts
+BlackBuck,77. 390 ,2.32,"2,00,00,000",75,42,4.5,22, Trucking logistics.,2010,Delhivery LTD
+Chumbak,78. 260 ,2.12,"1,50,00,000",100,41,4,19,Home decor.,2013,"Urban Company, House Joy"
+LetsVenture ,79. 220 ,2.09,"1,00,00,000",125.6,41,3.5,15, Startup funding.,2015,Accel partners
+Miko,80. 180 ,2.05,"90,00,000",167.99,40,3,12,Educational robot.,2014,Robo kart
+Innovaccer,81. 100 ,2.26,"80,00,000",100,40,2.8,25, Healthcare analytics.,2007,HealthPlix
+Flipkart,82. 130 ,2.35,"70,00,000",135.76,39,2.6,20, E-commerce platform.,2015,Myntra
+Xpressbees ,83. 170 ,2.15,"60,00,000",100,39,2.4,23,Parcel delivery.,2014,"Bluedart Express, Ekart logistics"
+Aye Finance,84. 80 ,2.14,"50,00,000",145.89,38,2.2,22, Small business loans.,2012,SBI
+Fynd ,85. 140 ,2.07,"40,00,000",125,38,2,17, Fashion retail.,2020,Myntra
+Teachmint ,86. 60 ,2.3,"30,00,000",166.67,37,1.8,18,Online teaching tool.,2019,Unacademy
+Giva,87. 500 ,2.04,"20,00,000",200,36,1.6,16, Jewelry retail.,2015,Tanishq
+Quizizz ,88. 300 ,2.11,"15,00,000",233.33,36,1.5,14, Learning platform.,2014,BYJU'S
+Xperteye ,89. 240 ,2.21,"10,00,000",300,35,1.4,21, Remote assistance.,2015,Helplama
+Magicpin,90. 80 ,2.19,"9,00,000",288.89,35,1.3,24,Cashback platform.,2019,CashKaro
+Plum,91. 600 ,2.03,"8,50,000",276.47,34,1.2,12,Health insurance.,2012,Star Health insurance
+ApnaLoan,92. 150 ,2.33,"8,00,000",300,34,1.1,10, Loan comparison.,2013,Bank Bazaar
+LimeRoad,93. 90 ,2.16,"7,50,000",255.56,33,1,11, Fashion e-commerce.,2015,Myntra
+Scoopwhoop,94. 80 ,2.31,"7,00,000",300,33,0.9,13, Digital media.,2015,Sharechat
+Ninjacart ,95. 70 ,2.27,"6,50,000",233.33,32,0.85,19, Supply chain for fresh produce.,2011,Licious
+Faasos ,96. 120 ,2.1,"6,00,000",90.99,32,0.8,18, Online food delivery.,2016,"Swiggy , Food Panda "
+Zebra ,97. 200 ,2.18,"5,50,000",289,31,0.75,20, On-demand logistics.,2020,WareIQ
+Dukaan,98. 50 ,2.24,"5,00,000",278.99,29,0.7,15, Online store builder.,2018,Shopify
+Pando,99. 700 ,2.06,"4,50,000",300,23,0.65,16, Logistics management.,2014,"Bluedart Express, Ekart logistics"
+Aasaanjobs,100. 800 ,2.02,"4,00,000",219.98,21,0.6,14, Job portal for blue-collar workers.,2018,Hire Blu
+Khatabook ,101. 600 ,2.25,"3,50,000",313.95,19,0.3,11,Digital bookkeeping.,2018,Zoho books
